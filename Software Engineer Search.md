@@ -28,9 +28,9 @@ our fantastic core services engineering team to improve our search functionality
 - Proud to show your github.com (or similar) account
 
 ## Apply
-So, if you happen to be a pragmatic, test-driven software craftsman woking on the edge of technology, come and help our outstanding, truly agile development teams in Munich, Germany's real tech capital.
+If you happen to be a pragmatic, test-driven software craftsman who likes working on the edge of technology, come and help our outstanding, truly agile development teams in Munich in Germany, or in Bottighofen in Switzerland, who are happy to have you participate in our regular code retreats, and will help you to grow your skillset – as you will help them to grow theirs.
 
-**Please send a concise resume and your github.com username to karl.pitrich holidaycheck com**
+**Please send a concise resume and your github.com username to careers@holidaycheck.com**
 
 As part of [TOMORROW FOCUS AG], we are able to provide nice perks like free drinks, subsidized lunch, cheap massages, free coffee & fruit. There's also ample budget for trainings, conferences and team events. On top of that, you receive some discount for our own travel offerings.
 
