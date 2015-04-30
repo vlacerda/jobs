@@ -1,4 +1,4 @@
-[HolidayCheck](http://www.holidaycheck.de/) is deeply commited to providing the best experience in online travel for our customers. This experience is increasingly consumed using our mobile offerings. To help our awesome, well-reviewed iOS App Development Team, we're looking for help from a
+[HolidayCheck](http://www.holidaycheck.de/) is deeply commited to providing the best experience in online travel for our customers. This experience is increasingly consumed using our mobile offerings. To help our awesome, well-reviewed iOS App Development Team, we're looking for a
 
 # (Senior) Software Engineer – iOS
 
