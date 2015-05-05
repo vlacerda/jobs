@@ -1,6 +1,6 @@
-[HolidayCheck] is deeply commited to providing the best experience in online travel for our customers. Our Web Frontend is the most important part of this experience. Come and use your experience and your skills to help us in provide an even better experience to more than 5.000.000 travellers who visit every month as a... 
+[HolidayCheck](http://www.holidaycheck.de/) is deeply committed to providing the best experience in online travel for our customers. Our Web Frontend is the most important part of this experience. Come and use your expertise and your skills to help us provide an even better look and feel to more than 5.000.000 travelers who visit every month as a...
 
-# Software Engineer Visual Frontend
+# (Senior) Software Engineer – Visual Frontend
 
 ## Your Tasks
 - Implement new UX-features, components and widgets for all device types and viewports
@@ -11,28 +11,38 @@
 
 ## Your Profile
 - True mastery of HTML5/ CSS3 on desktop, tablet and phone devices
+- Proficient with CSS using preprocessors and tools like LESS, SASS or Stylus, Compass
+- Solid development experience using JavaScript, read "The Good Parts", lover or hater of ES6
+- Experience with multiple of: Bower, Grunt, Gulp, Webpack, React.js, Flux, Node.js, Karma, Mocha, Selenium, PhantomJS, Browserstack, Saucelabs, Mocha, Chai, jsdom, Supertest, Sinon, Istanbul, ...
 - Efficient user of tools like Axure, Balsamiq, Photoshop, Muse, Fireworks
-- Proficient with CSS, also using preprocessors and tools like LESS, SASS or Stylus, Compass
-- Very solid development experience using JavaScript, e.g. read "The Good Parts"
-- Experience with tools like Bower, Webpack, Grunt, Node.js, Karma, Mocha, Selenium, PhantomJS, Browserstack
-- Worked with Frameworks like React.js+Flux, Backbone.js, Angular.js or similar
 - Very good conversational skills in English are mandatory, German is a plus
-- A big plus: Experienced with test driven web development and continuous delivery
+- A big plus: Experienced with test driven web development and continuous delivery & some experience with React.js + Flux
 
 ## Personal Traits
 - Really good eye for sleek design, cleanliness and consistency
-- Understands users and works stadily to provide them with examplary user experience
+- Understands users and works steadily to provide them with exemplary user experience
 - Able to comprehend and deal with large and complex web projects
 - Can focus on deliverables and small increments but also not afraid of huge changes
 - True agilist, pair programmer and continuous improver
 - Non-religious about specific frameworks, languages or tools
 
 ## Apply
-If you happen to be a pragmatic, test-driven software craftsman who likes working on the edge of technology, come and help our outstanding, truly agile development teams in Munich in Germany, or in Bottighofen in Switzerland, who are happy to have you participate in our regular code retreats, and will help you to grow your skillset – as you will help them to grow theirs.
 
-**Please send a concise resume and your github.com username to careers@holidaycheck.com**
+If you happen to be a pragmatic, test-driven software craftsman or craftswoman who likes working on the edge of technology, come and help our outstanding, truly agile development teams in [Munich, DE](https://goo.gl/maps/2KKGh), or in [Bottighofen, CH](https://goo.gl/maps/X7bZ3), or in [Poznan, PL](https://goo.gl/maps/AiHKJ).
 
-As part of [TOMORROW FOCUS AG], we are able to provide nice perks like free drinks, subsidized lunch, cheap massages, free coffee & fruit. There's also ample budget for trainings, conferences and team events. On top of that, you receive some discount for our own travel offerings.
+Please send your *concise* resume to [careers@holidaycheck.com](mailto:carreers@holidaycheck.com). Make sure to include your github.com account (or similar work samples) in your application.
 
-[HolidayCheck]:http://www.holidaycheck.de
-[TOMORROW FOCUS AG]:http://www.tomorrow-focus.com
+HolidayCheck is part of [TOMORROW FOCUS AG](http://www.tomorrow-focus.com/). We are able to provide nice perks, like free drinks, flexible home office and part time options, subsidized lunch[1] and massages[1], hardware of your choice, free coffee & fruit. We frequently abuse our table soccer, and even have developed our own App to keep score of our Pool Billards[2] matches. There's also ample budget for trainings, toys, conferences and team events. On top of that, you receive discount for our travel offerings.
+
+<sub>If you apply for **Poznan**, please include the following statement in your application: *"I hereby give my consent for processing my personal data included in the employment offer for the needs of the recruitment process, pursuant to the Act of August 29, 1997 on personal data protection (Journal of Laws No. 133, item 883 with amendments)".*</sub>
+
+
+<sub>**Please make your resume compatible with the engineers who are reviewing it.** Send only one concise document, accurately describe your skill set, your qualifications, your job experience and what you are doing to continuously improve yourself. Do not forget to include your github.com account (or similar) and your salary expectations and your earliest availability and whatever you think makes sense.</sub>
+
+
+<sub>Find the most current version of this job ad at [github.com/HolidayCheck/jobs](github.com/HolidayCheck/jobs)</sub>
+
+<sub>
+[1] Munich only<br/>
+[2] Bottighofen only
+</sub>

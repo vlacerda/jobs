@@ -1,22 +1,22 @@
-[HolidayCheck](http://www.holidaycheck.de/) is deeply commited to providing the best experience in online travel for our customers. We're currently looking for you to support our fantastic PHP engineering team to improve and maintain functionality and REST APIs.
+[HolidayCheck](http://www.holidaycheck.de/) is deeply committed to providing the best experience in online travel for our customers. We're currently looking for you to support our fantastic PHP engineering team to improve and maintain functionality and REST APIs.
 
 # (Senior) Software Engineer – PHP
 
 ## Your Tasks
 - Propose, draft and implement core components and APIs
-- Continuously refactor existing code to improve quaility and testability
+- Continuously refactor existing code to improve quality and testability
 - Help product owners to write great, concise user stories with high business value
 - Continuously watch the market and improve your knowledge, then spread it though our teams
 
 ## Your Profile
 - Solid software development skills (e.g. PHP, Zend Framework, MySQL, JavaScript, CSS, HTML, ...)
-- Extensive Hands-On programming experience 
-- Experienced with a full web stack, including frontend (not design) and RESTful APIs
+- Extensive Hands-On programming experience
+- Experienced with a full web stack, including front-end (not design) and RESTful APIs
 - True master of your personal toolset
 
 ## Personal Traits
 - Able to understand complex topics, including business traits
-- Thoroughly testdriven, uses modern tools and is generally efficient
+- Thoroughly test-driven, uses modern tools and is generally efficient
 - True agilist and pair programming aficionado, keen to deliver working software
 - Willing to work with front- and backend code (Don't be afraid, we have Designers)
 - Non-religious about specific frameworks, languages or tools

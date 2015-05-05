@@ -1,8 +1,6 @@
-# [Senior] Software Engineer – Search
+[HolidayCheck](http://www.holidaycheck.de/) is deeply committed to providing the best experience in online travel for our customers. Search is an essential part of this experience, and we're currently looking for you to support our fantastic core services engineering team to improve our search functionality and REST APIs.
 
-[HolidayCheck] is deeply commited to providing the best experience in online travel for our customers. 
-Search is an essential part of this experience, and we're currently looking for you to support
-our fantastic core services engineering team to improve our search functionality and REST APIs.
+# (Senior) Software Engineer – Search
 
 ## Your Tasks
 - Propose, draft and implement core components and APIs for search features
@@ -12,28 +10,38 @@ our fantastic core services engineering team to improve our search functionality
 - Continuously watch the market and improve your knowledge on search, then spread it though our teams
 
 ## Your Profile
-- Solid software development skills (e.g. Java, Scala, JavaScript, Node.js, ...)
-- Hands-On programming experience with an established search technology like [elasticsearch], Solr, Lucene, Autonomy, Endeca, FactFinder, FAST, etc.
-- Proficiency with linguistic processing methods and algorithms and or geospatial search
-- Experienced with a full web stack, including frontend (not design) and RESTful APIs
+- Solid software development skills (e.g. Java, Scala, JavaScript, CoffeeScript, Node.js, ...)
+- Hands-On programming experience with an established search technology like elasticsearch, Solr, Lucene, Autonomy, Endeca, FactFinder, FAST, etc.
+- Proficiency with linguistic processing methods and algorithms or geospatial search
+- Experienced with a full web stack, including front-end (not design) and RESTful APIs
 - True master of your personal toolset
 
-## Your Personal Traits
-- Able to understand complex topics, including business traits and value chains
-- Thoroughly testdriven, you're a user of modern tools and are generally efficient
-- True agilist and pair programming aficionado, keen to deliver working software
+## Personal Traits
+- Able to understand complex topics, including business traits
+- Thoroughly test-driven, uses modern tools and is generally efficient
+- True agilist and pair programming aficionado, keen on delivering working software
 - Willing to work with front- and backend code (Don't be afraid, we have Designers)
 - Non-religious about specific frameworks, languages or tools
 - Very good skills in English are mandatory, German is a plus
 - Proud to show your github.com (or similar) account
 
 ## Apply
-If you happen to be a pragmatic, test-driven software craftsman who likes working on the edge of technology, come and help our outstanding, truly agile development teams in Munich in Germany, or in Bottighofen in Switzerland, who are happy to have you participate in our regular code retreats, and will help you to grow your skillset – as you will help them to grow theirs.
 
-**Please send a concise resume and your github.com username to careers@holidaycheck.com**
+If you happen to be a pragmatic, test-driven software craftsman or craftswoman who likes working on the edge of technology, come and help our outstanding, truly agile development teams in [Munich, DE](https://goo.gl/maps/2KKGh), or in [Bottighofen, CH](https://goo.gl/maps/X7bZ3), or in [Poznan, PL](https://goo.gl/maps/AiHKJ).
 
-As part of [TOMORROW FOCUS AG], we are able to provide nice perks like free drinks, subsidized lunch, cheap massages, free coffee & fruit. There's also ample budget for trainings, conferences and team events. On top of that, you receive some discount for our own travel offerings.
+Please send your *concise* resume to [careers@holidaycheck.com](mailto:carreers@holidaycheck.com). Make sure to include your github.com account (or similar work samples) in your application.
 
-[elasticsearch]:https://github.com/elasticsearch/elasticsearch
-[HolidayCheck]:http://www.holidaycheck.de
-[TOMORROW FOCUS AG]:http://www.tomorrow-focus.com
+HolidayCheck is part of [TOMORROW FOCUS AG](http://www.tomorrow-focus.com/). We are able to provide nice perks, like free drinks, flexible home office and part time options, subsidized lunch[1] and massages[1], hardware of your choice, free coffee & fruit. We frequently abuse our table soccer, and even have developed our own App to keep score of our Pool Billards[2] matches. There's also ample budget for trainings, toys, conferences and team events. On top of that, you receive discount for our travel offerings.
+
+<sub>If you apply for **Poznan**, please include the following statement in your application: *"I hereby give my consent for processing my personal data included in the employment offer for the needs of the recruitment process, pursuant to the Act of August 29, 1997 on personal data protection (Journal of Laws No. 133, item 883 with amendments)".*</sub>
+
+
+<sub>**Please make your resume compatible with the engineers who are reviewing it.** Send only one concise document, accurately describe your skill set, your qualifications, your job experience and what you are doing to continuously improve yourself. Do not forget to include your github.com account (or similar) and your salary expectations and your earliest availability and whatever you think makes sense.</sub>
+
+
+<sub>Find the most current version of this job ad at [github.com/HolidayCheck/jobs](github.com/HolidayCheck/jobs)</sub>
+
+<sub>
+[1] Munich only<br/>
+[2] Bottighofen only
+</sub>

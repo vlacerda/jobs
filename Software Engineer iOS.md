@@ -1,4 +1,4 @@
-[HolidayCheck](http://www.holidaycheck.de/) is deeply commited to providing the best experience in online travel for our customers. This experience is increasingly consumed using our mobile offerings. To help our awesome, well-reviewed iOS App Development Team, we're looking for a
+[HolidayCheck](http://www.holidaycheck.de/) is deeply committed to providing the best experience in online travel for our customers. This experience is increasingly consumed using our mobile offerings. To help our awesome, well-reviewed iOS App Development Team, we're looking for a
 
 # (Senior) Software Engineer – iOS
 
@@ -19,16 +19,17 @@
 - A plus: Have published your own Apps to the App Store
 
 ## Personal Traits
-- Thoroughly testdriven, uses modern tools and is generally efficient
+- Thoroughly test-driven, uses modern tools and is generally efficient
 - Writing tests for your code is in your personal definition of done
 - True agilist and pair programming aficionado
-- Keen to deliver working software and receiving outstandig App Store user feedback
+- Keen to deliver working software and receiving outstanding App Store user feedback
 - Attentive to detail, able to compromise on good design and good UX vs. pragmatism
 - Very good skills in English are mandatory, German is a plus
 - Proud to show either your github.com (or similar) account or your private iOS projects
 - Excellent typing ability in the presence of flying Nerf darts
 
 ## Apply
+
 If you happen to be a pragmatic, test-driven software craftsman or craftswoman who likes working on the edge of technology, come and help our outstanding, truly agile development teams in [Munich, DE](https://goo.gl/maps/2KKGh), or in [Bottighofen, CH](https://goo.gl/maps/X7bZ3), or in [Poznan, PL](https://goo.gl/maps/AiHKJ).
 
 Please send your *concise* resume to [careers@holidaycheck.com](mailto:carreers@holidaycheck.com). Make sure to include your github.com account (or similar work samples) in your application.

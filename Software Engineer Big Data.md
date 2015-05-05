@@ -1,5 +1,5 @@
-[HolidayCheck](http://www.holidaycheck.de/) is deeply commited to providing the best experience in online travel for our customers.
-Help our growing team of data scientists and engineers to unleash the potential of billions of events every day to provide five million travellers every month with intelligent optimizations as a
+[HolidayCheck](http://www.holidaycheck.de/) is deeply committed to providing the best experience in online travel for our customers.
+Help our growing team of data scientists and engineers to unleash the potential of billions of events every day to provide five million travellers every month with intelligent optimizations as a ...
 
 # (Senior) Software Engineer – Big Data
 
@@ -21,12 +21,12 @@ Help our growing team of data scientists and engineers to unleash the potential 
 - Prior experience with scaling ETL projects and a big data platform is advantageous
 
 ## Personal Traits
-- Able to understand complex topics, including business traits and user behaviour
+- Able to understand complex topics, including business traits and user behavior
 - Uses modern tools and is generally efficient and test-driven
-- True agilist, keen to deliver working software
+- True agilist, keen on delivering working software
 - Non-religious about specific systems, frameworks, languages or tools
 - Can focus on deliverables and small increments but also not afraid of huge changes and humongous amounts of data
-- Proud to show your github.com account, research papers or other interesting archievements
+- Proud to show your github.com account, research papers or other interesting achievements
 - Very good skills in English are mandatory, German is a plus
 
 ## Apply
