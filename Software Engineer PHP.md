@@ -27,7 +27,7 @@
 
 If you happen to be a pragmatic, test-driven software craftsman or craftswoman who likes working on the edge of technology, come and help our outstanding, truly agile development teams in [Munich, DE](https://goo.gl/maps/2KKGh), or in [Bottighofen, CH](https://goo.gl/maps/X7bZ3), or in [Poznan, PL](https://goo.gl/maps/AiHKJ).
 
-Please send your *concise* resume to [careers@holidaycheck.com](mailto:carreers@holidaycheck.com). Make sure to include your github.com account (or similar work samples) in your application.
+Please send your *concise* resume to [careers@holidaycheck.com](mailto:careers@holidaycheck.com). Make sure to include your github.com account (or similar work samples) in your application.
 
 HolidayCheck is part of [TOMORROW FOCUS AG](http://www.tomorrow-focus.com/). We are able to provide nice perks, like free drinks, flexible home office and part time options, subsidized lunch[1] and massages[1], hardware of your choice, free coffee & fruit. We frequently abuse our table soccer, and even have developed our own App to keep score of our Pool Billards[2] matches. There's also ample budget for trainings, toys, conferences and team events. On top of that, you receive discount for our travel offerings.
 
