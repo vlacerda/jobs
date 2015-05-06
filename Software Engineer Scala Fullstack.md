@@ -28,7 +28,7 @@
 - Non-religious about specific systems, frameworks, languages or tools
 - Can focus on deliverables and small increments but also not afraid of huge changes
 - Proud to show your github.com account, research papers or other interesting achievements
-- Very good conversational skills in English are mandatory, German is a plus
+- Very good conversational skills in English are mandatory, German or Polish is a plus
 - Genuinely nice also to Java and JavaScript programmers
 - Excellent typing ability in the presence of flying Nerf darts
 

@@ -27,7 +27,7 @@ Help our growing team of data scientists and engineers to unleash the potential 
 - Non-religious about specific systems, frameworks, languages or tools
 - Can focus on deliverables and small increments but also not afraid of huge changes and humongous amounts of data
 - Proud to show your github.com account, research papers or other interesting achievements
-- Very good skills in English are mandatory, German is a plus
+- Very good skills in English are mandatory, German or Polish is a plus
 
 ## Apply
 

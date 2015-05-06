@@ -24,7 +24,7 @@
 - True agilist and pair programming aficionado
 - Keen to deliver working software and receiving outstanding App Store user feedback
 - Attentive to detail, able to compromise on good design and good UX vs. pragmatism
-- Very good skills in English are mandatory, German is a plus
+- Very good skills in English are mandatory, German or Polish is a plus
 - Proud to show either your github.com (or similar) account or your private iOS projects
 - Excellent typing ability in the presence of flying Nerf darts
 
