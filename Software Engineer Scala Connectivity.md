@@ -1,6 +1,6 @@
 [HolidayCheck](http://www.holidaycheck.de/) is deeply commited to providing the best experience in online travel for our customers. Over the past month we've been rewriting most of our backend using Scala and Finatra. Now we need help to bring our platform to the next level from a passionate
 
-# (Senior) Software Engineer – Scala / Connectivity
+# (Senior) Software Engineer – Connectivity & APIs (Scala)
 
 ## Your Tasks
 - Be part of our backend developer team driving our Scala/Akka-based travel search and booking platform
