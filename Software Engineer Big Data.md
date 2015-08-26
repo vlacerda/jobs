@@ -1,5 +1,5 @@
 [HolidayCheck](http://www.holidaycheck.de/) is deeply committed to providing the best experience in online travel for our customers.
-Help our growing team of data scientists and engineers to unleash the potential of billions of events every day to provide five million travellers every month with intelligent optimizations as a ...
+Help our growing team of data scientists and engineers to unleash the potential of billions of events every day to provide 25 million travellers every month with intelligent optimizations as a ...
 
 # (Senior) Software Engineer – Big Data
 
