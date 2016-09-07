@@ -16,11 +16,11 @@
 - Good command of HTML5 and CSS3 (Don't worry: no design tasks for this position)
 - Experience with React.js + Flux, Angular, Ember or similar modern web frameworks
 - Proficient with Node.js and it's ecosystem
-- Experience with the whole JavaScrit/ Node.js tool chest (several of: Bower, Grunt, Gulp, Webpack, Karma, Mocha, Selenium, PhantomJS, Browserstack, Saucelabs,  Chai, jsdom, Supertest, Sinon, Istanbul, ...)
-- Not afraid to work professionally with code from others
+- Experience with the whole JavaScript/ Node.js tool chest (several of: Bower, Grunt, Gulp, Webpack, Karma, Mocha, Selenium, PhantomJS, Browserstack, Saucelabs, Chai, jsdom, Supertest, Sinon, Istanbul, ...)
+- Not afraid to work professionally with code from others (we work in a mono-repository)
 - Experienced with a full web stack, RESTful APIs, touching the front-end when needed
 - True master of your personal toolset
-- A big plus: Experienced with test driven web development and continuous delivery
+- Professionally experienced with test driven web development and continuous delivery
 
 ## Personal Traits
 - Able to understand complex topics, including business traits, system and user behavior
@@ -32,7 +32,6 @@
 - Proud to show your github.com account, research papers or other interesting achievements
 - Very good conversational skills in English are mandatory, German or Polish is a plus
 - Excellent typing ability in the presence of flying Nerf darts
-
 
 ## Apply
 
