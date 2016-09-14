@@ -10,10 +10,11 @@
 - Continuously watch the market and improve your knowledge on search, then spread it though our teams
 
 ## Your Profile
-- Solid software development skills (e.g. Java, Scala, JavaScript, CoffeeScript, Node.js, ...)
-- Hands-On programming experience with an established search technology like elasticsearch, Solr, Lucene, Autonomy, Endeca, FactFinder, FAST, etc.
-- Proficiency with linguistic processing methods and algorithms or geospatial search
-- Experienced with a full web stack, including front-end (not design) and RESTful APIs
+- Solid software development skills (e.g. Scala, Java, Groovy, JavaScript, Python ...)
+- Hands-On programming experience with an established search technology like elasticsearch, Solr, Lucene, FAST, etc.
+- Proficiency with linguistic processing methods and algorithms
+- Comfortable with basic data analysis
+- Experience with a full web stack, including front-end (not design) and RESTful APIs is a plus
 - True master of your personal toolset
 
 ## Personal Traits
