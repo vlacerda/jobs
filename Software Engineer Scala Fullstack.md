@@ -34,11 +34,11 @@
 
 ## Apply
 
-If you happen to be a pragmatic, test-driven software craftsman or craftswoman who likes working on the edge of technology, come and help our outstanding, truly agile development teams in [Munich, DE](https://goo.gl/maps/2KKGh), or in [Bottighofen, CH](https://goo.gl/maps/X7bZ3), or in [Poznan, PL](https://goo.gl/maps/AiHKJ).
+If you happen to be a pragmatic, test-driven software craftsman or craftswoman who likes working on the edge of technology, come and help our outstanding, truly agile development teams in [Munich, DE](https://goo.gl/maps/2KKGh), in [Bottighofen, CH](https://goo.gl/maps/X7bZ3), in [Poznan, PL](https://goo.gl/maps/AiHKJ), or in [Amsterdam, NL](https://goo.gl/maps/AJHpM3yYUzL2).
 
 Please send your *concise* resume to [careers@holidaycheck.com](mailto:careers@holidaycheck.com). Make sure to include your github.com account (or similar work samples) in your application.
 
-HolidayCheck is part of [HolidayCheck Group AG](https://www.holidaycheckgroup.com/). We are able to provide nice perks, like free drinks, flexible home office and part time options, subsidized lunch[1] and massages[1], hardware of your choice, free coffee & fruit. We frequently abuse our table soccer, and even have developed our own App to keep score of our Pool Billards[2] matches. There's also ample budget for trainings, toys, conferences and team events. On top of that, you receive discount for our travel offerings.
+HolidayCheck is part of [HolidayCheck Group AG](https://www.holidaycheckgroup.com/). We provide nice perks, like free drinks, flexible home office and part time options, subsidized lunch[1] and massages[1], hardware of your choice, free coffee & fruit. We frequently abuse our table soccer, and even have developed our own App to keep score of our Pool Billards[2] matches. There's also ample budget for trainings, toys, conferences and team events. On top of that, you receive discount for our travel offerings.
 
 <sub>If you apply for **Poznan**, please include the following statement in your application: *"I hereby give my consent for processing my personal data included in the employment offer for the needs of the recruitment process, pursuant to the Act of August 29, 1997 on personal data protection (Journal of Laws No. 133, item 883 with amendments)".*</sub>
 
