@@ -9,9 +9,9 @@ Find our current open positions here, and [apply now](mailto:careers@holidaychec
 Find out more about our company and our values [here](https://www.holidaycheckgroup.com/career/?lang=en/#benefits).
 
 -----
-
-<a href="https://twitter.com/holidaychecklab" class="twitter-follow-button" data-show-count="false">Follow @holidaychecklab</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<br><br>
 <div style="text-align:center">
+  <a href="https://twitter.com/holidaychecklab" class="twitter-follow-button" data-show-count="false">
   <img src="https://pbs.twimg.com/profile_images/639743980868009985/wQp2YC7Z.png" height="100">
+  <br>Follow @holidaychecklab</a>
+  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
