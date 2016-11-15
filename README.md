@@ -6,7 +6,7 @@ If you happen to be a pragmatic, test-driven software craftsman or craftswoman w
 
 Find our current open positions here, and [apply now](mailto:careers@holidaycheck.com). We also welcome to simply receive a link to your representative github (or similar) account, plus your CV as a PDF if you have it.
 
-*Find out more about our company and our values [here](https://www.holidaycheckgroup.com/career/?lang=en/#benefits).*
+**Find out more about our company and our values [here](https://www.holidaycheckgroup.com/career/?lang=en/#benefits).**
 
 -----
 <div style="text-align:center">
