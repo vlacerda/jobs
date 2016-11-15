@@ -30,7 +30,7 @@
 
 ## Apply
 
-If you happen to be a pragmatic, test-driven software craftsman or craftswoman who likes working on the edge of technology, come and help our outstanding, truly agile development teams in [Munich, DE](https://goo.gl/maps/2KKGh), or in [Bottighofen, CH](https://goo.gl/maps/X7bZ3), or in [Poznan, PL](https://goo.gl/maps/AiHKJ).
+If you happen to be a pragmatic, test-driven software craftsman or craftswoman who likes working on the edge of technology, come and help our outstanding, truly agile development teams in [Munich, DE](https://goo.gl/maps/2KKGh), in [Bottighofen, CH](https://goo.gl/maps/X7bZ3), in [Poznan, PL](https://goo.gl/maps/AiHKJ), or in [Amsterdam, NL](https://goo.gl/maps/AJHpM3yYUzL2).
 
 Please send your *concise* resume to [careers@holidaycheck.com](mailto:careers@holidaycheck.com). Make sure to include your github.com account (or similar work samples) in your application.
 
