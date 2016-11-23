@@ -12,41 +12,41 @@
 - Drive towards continuous deployment of UX components and swift implementation of design improvements
 
 ## Your Profile
-- [***] Extensive development experience using JavaScript, read "The Good Parts", lover or hater of ES6
-- [****] Good command of HTML5 and CSS3 (Don't worry: no design tasks for this position)
+- `[***]` Extensive development experience using JavaScript, read "The Good Parts", lover or hater of ES6
+- `[****]` Good command of HTML5 and CSS3 (Don't worry: no design tasks for this position)
 - Experience with React.js + Flux, [**] Angular, Ember or similar modern web frameworks
-- [**] Proficient with Node.js and it's current ecosystem
+- `[**]` Proficient with Node.js and it's current ecosystem
 - Experience with the whole JavaScript/ Node.js tool chest (several of: 
-  [**] Bower, 
-  [**] Grunt, 
-  [**] Gulp, 
-  [**] Webpack, 
-  [*] Karma, 
-  [*] Mocha, 
+  `[**]` Bower, 
+  `[**]` Grunt, 
+  `[**]` Gulp, 
+  `[**]` Webpack, 
+  `[*]` Karma, 
+  `[*]` Mocha, 
   Selenium, 
   PhantomJS, 
-  [**] Browserstack, 
+  `[**]` Browserstack, 
   Saucelabs, 
   Chai, 
   jsdom, 
   Supertest, 
   Sinon, 
   Istanbul, ...)
-- [****] Not afraid to work professionally with code from others (we work in a mono-repository)
-- [***] Experienced with a full web stack, RESTful APIs, touching the front-end when needed
-- [***] True master of your personal toolset
-- [*] Professionally experienced with test driven web development and continuous delivery
+- `[****]` Not afraid to work professionally with code from others (we work in a mono-repository)
+- `[***]` Experienced with a full web stack, RESTful APIs, touching the front-end when needed
+- `[***]` True master of your personal toolset
+- `[*]` Professionally experienced with test driven web development and continuous delivery
 
 ## Personal Traits
-- [***] Able to understand complex topics, including business traits, system and user behavior
-- [**] Uses modern tools and is generally efficient and test-driven
-- [**] True agilist, keen on delivering working software
-- [****] Able to receive and give constructive criticism
-- [****] Non-religious about specific systems, frameworks, languages or tools
-- [***] Can focus on deliverables and small increments but also not afraid of huge changes
-- [**] Proud to show your github.com account, research papers or other interesting achievements
+- `[***]` Able to understand complex topics, including business traits, system and user behavior
+- `[**]` Uses modern tools and is generally efficient and test-driven
+- `[**]` True agilist, keen on delivering working software
+- `[****]` Able to receive and give constructive criticism
+- `[****]` Non-religious about specific systems, frameworks, languages or tools
+- `[***]` Can focus on deliverables and small increments but also not afraid of huge changes
+- `[**]` Proud to show your github.com account, research papers or other interesting achievements
 - Very good conversational skills in [***] English are mandatory, German or Polish is a plus
-- [****] Excellent typing ability in the presence of flying Nerf darts
+- `[****]` Excellent typing ability in the presence of flying Nerf darts
 
 ## Apply
 
