@@ -10,21 +10,21 @@
 - Drive towards continuous deployment of UX components and swift implementation of design improvements
 
 ## Your Profile
-- True mastery of HTML5/ CSS3 on desktop, tablet and phone devices
-- Proficient with CSS using preprocessors and tools like LESS, SASS or Stylus, Compass
-- Solid development experience using JavaScript, read "The Good Parts", lover or hater of ES6
-- Experience with multiple of: Bower, Grunt, Gulp, Webpack, React.js, Flux, Node.js, Karma, Mocha, Selenium, PhantomJS, Browserstack, Saucelabs, Mocha, Chai, jsdom, Supertest, Sinon, Istanbul, ...
-- Efficient user of tools like Axure, Balsamiq, Photoshop, Muse, Fireworks
-- Very good conversational skills in English are mandatory, German or Polish is a plus
+- `[****]` True mastery of HTML5/ CSS3 on desktop, tablet and phone devices
+- `[***]` Proficient with CSS using preprocessors and tools like LESS, SASS or Stylus, Compass
+- `[***]` Solid development experience using JavaScript, read "The Good Parts", lover or hater of ES6
+- Experience with multiple of: `[*]`Bower, `[**]`Grunt, `[**]`Gulp, `[**]`Webpack, React.js, Flux, `[*]`Node.js, `[*]`Karma, `[*]`Mocha, Selenium, PhantomJS, `[**]`Browserstack, Saucelabs, Mocha, Chai, jsdom, Supertest, Sinon, Istanbul, ...
+- `[**]` Efficient user of tools like Axure, Balsamiq, Photoshop, Muse, Fireworks
+- `[**]` Very good conversational skills in English are mandatory, German or Polish is a plus
 - A big plus: Experienced with test driven web development and continuous delivery & some experience with React.js + Flux
 
 ## Personal Traits
-- Really good eye for sleek design, cleanliness and consistency
-- Understands users and works steadily to provide them with exemplary user experience
-- Able to comprehend and deal with large and complex web projects
-- Can focus on deliverables and small increments but also not afraid of huge changes
-- True agilist, pair programmer and continuous improver
-- Non-religious about specific frameworks, languages or tools
+- `[***]` Really good eye for sleek design, cleanliness and consistency
+- `[***]` Understands users and works steadily to provide them with exemplary user experience
+- `[***]` Able to comprehend and deal with large and complex web projects
+- `[****]` Can focus on deliverables and small increments but also not afraid of huge changes
+- `[***]` True agilist, pair programmer and continuous improver
+- `[****]` Non-religious about specific frameworks, languages or tools
 
 ## Apply
 
